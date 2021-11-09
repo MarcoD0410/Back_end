@@ -1,0 +1,14 @@
+[
+    {
+      "name": "project1",
+      "live": "https://app.herokuapp.com/whatever",
+      "git": "https://github.com/MarcoD0410/Seir_pegiun_Project_1",
+      "image": "https://i.imgur.com/rnmQP45.jpg"
+    },
+    {
+      "name": "project2",
+      "live": "https://md-project-2.herokuapp.com/",
+      "git": "https://github.com/MarcoD0410/Project-2",
+      "image": "https://i.imgur.com/XNX3kZ1.png"
+    }
+  ]
